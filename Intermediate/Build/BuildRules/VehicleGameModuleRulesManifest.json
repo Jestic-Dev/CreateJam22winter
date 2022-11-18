@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Uni Project\\cargametry32\\VehicleGame\\Source\\VehicleGame\\VehicleGame.Build.cs",
+		"E:\\Unreal Uni Project\\cargametry32\\VehicleGame\\Source\\VehicleGameLoadingScreen\\VehicleGameLoadingScreen.Build.cs",
+		"E:\\Unreal Uni Project\\cargametry32\\VehicleGame\\Source\\VehicleGame.Target.cs",
+		"E:\\Unreal Uni Project\\cargametry32\\VehicleGame\\Source\\VehicleGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

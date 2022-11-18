@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"VehicleGame": "UE4Editor-VehicleGame.dll",
+		"VehicleGameLoadingScreen": "UE4Editor-VehicleGameLoadingScreen.dll"
+	}
+}
