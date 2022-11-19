@@ -979,3 +979,20 @@ Cancel: Abort the operation.
 [2022.11.19-16.29.47:692][134]LogSlate: Window 'MyCarRed' being destroyed
 [2022.11.19-16.29.47:693][134]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2022.11.19-16.29.47:693][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.19-16.33.01:699][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.19-16.33.01:736][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Henrik/CarWheel" FILE="../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/CarWheel.uasset" SILENT=true
+[2022.11.19-16.33.01:746][556]LogSavePackage: Moving '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Saved/CarWheel835BA0D7418AAB43DCBC878CF5807B04.tmp' to '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/CarWheel.uasset'
+[2022.11.19-16.33.01:757][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Henrik/Material" FILE="../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/Material.uasset" SILENT=true
+[2022.11.19-16.33.01:762][556]LogSavePackage: Moving '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Saved/Material30D49BC64799040FFB185C83CDFD3FC6.tmp' to '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/Material.uasset'
+[2022.11.19-16.33.01:763][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Henrik/ColorSample" FILE="../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/ColorSample.uasset" SILENT=true
+[2022.11.19-16.33.01:765][556]LogSavePackage: Moving '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Saved/ColorSample37437D7E41F0DF3B4E1F6C84259A185F.tmp' to '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/ColorSample.uasset'
+[2022.11.19-16.33.01:775][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Henrik/MyCarBlue" FILE="../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/MyCarBlue.uasset" SILENT=true
+[2022.11.19-16.33.01:817][556]LogSavePackage: Moving '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Saved/MyCarBlueCE1797F64849378589F64AB54CF27097.tmp' to '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/MyCarBlue.uasset'
+[2022.11.19-16.33.01:828][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Henrik/MyCarRed" FILE="../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/MyCarRed.uasset" SILENT=true
+[2022.11.19-16.33.01:869][556]LogSavePackage: Moving '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Saved/MyCarRed7B3EA9F147D5DF965FDB549F392CCAE1.tmp' to '../../../../../../Users/Gamborg/Documents/GitHub/CreateJam22winter/Content/Henrik/MyCarRed.uasset'
+[2022.11.19-16.33.01:880][556]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.19-16.33.01:880][556]LogContentValidation: Display: Validating StaticMesh /Game/Henrik/CarWheel.CarWheel
+[2022.11.19-16.33.01:880][556]LogContentValidation: Display: Validating Material /Game/Henrik/Material.Material
+[2022.11.19-16.33.01:880][556]LogContentValidation: Display: Validating Texture2D /Game/Henrik/ColorSample.ColorSample
+[2022.11.19-16.33.01:880][556]LogContentValidation: Display: Validating StaticMesh /Game/Henrik/MyCarBlue.MyCarBlue
+[2022.11.19-16.33.01:880][556]LogContentValidation: Display: Validating StaticMesh /Game/Henrik/MyCarRed.MyCarRed
